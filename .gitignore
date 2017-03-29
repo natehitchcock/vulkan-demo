@@ -1,0 +1,10 @@
+# ignore debug symbols and database
+*.sdf
+*.pdb
+
+# ignore some generated folders
+Debug/
+Intermediate/
+
+# ignore generated SPIR-V shaders
+*.spv
